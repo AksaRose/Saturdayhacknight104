@@ -5,8 +5,9 @@
 # Project Name
 Long Description about project. This project do that. This project is awesome...
 ## Team members
-1. Aksa Rose
-2. Name [Embed perosnal github URL]
+1.Aksa Rose [https://github.com/AksaRose]
+2.Varalakshmi K G [https://github.com/YourShiningknight]
+3.Grace Elizabeth Jose [https://github.com/Grace1903]
 ## Link to product walkthrough
 [link to video]
 ## How it Works ?
