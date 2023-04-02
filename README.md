@@ -2,8 +2,8 @@
 
 
 
-# Project Name
-Long Description about project. This project do that. This project is awesome...
+# Snake and Apple
+Recreating the classics. This project is awesome :)
 ## Team members
 1.Aksa Rose [https://github.com/AksaRose]
 2.Varalakshmi K G [https://github.com/YourShiningknight]
